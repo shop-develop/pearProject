@@ -6,9 +6,8 @@
 
 **安装指南：https://www.yuque.com/bzsxmz/siuq1w/kggzna**
 
-需要配合[后端接口](https://github.com/a54552239/pearProjectApi)使用，链接：https://github.com/a54552239/pearProjectApi
 
-有不明白的地方的可以加群：275264059，或者联系我，QQ：545522390
+有不明白的地方的可以加群：943758282
 ### 演示地址
 > [https://home.vilson.xyz](https://home.vilson.xyz)
 
